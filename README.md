@@ -1,4 +1,4 @@
-# MailHog image for LAMP stack
+# MailHog image for Docker Compose LAMP stack
 MailHog image based on GO repo.
 
 ## How to run
@@ -11,4 +11,4 @@ Visit **localhost:8025** or **IP:8025** where is container with port 4040 for ch
 
 ## Full LAMP stack
 
-See [docker-compose-lamp](https://github.com/a-kom/docker-compose-lamp)
+See [Docker Compose LAMP](https://github.com/a-kom/docker-compose-lamp).
