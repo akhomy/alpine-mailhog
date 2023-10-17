@@ -1,3 +1,6 @@
+# Status
+Archived in favor of other tools.
+
 # MailHog image for Docker Compose LAMP stack
 MailHog image based on GO repo.
 
@@ -7,7 +10,7 @@ You need some container for sending emails. Set up in it pass for mailhog (/usr/
 
 `docker run -v /hostDir:/var/www/localhost/htdocs -d -p 8025:8025  --name mailhog --link php-fpm-sender lordius/alpine-mailhog`
 
-Visit **localhost:8025** or **IP:8025** where is container with port 4040 for checking emails.
+Visit **localhost:8025** or **IP:8025** where is container with port 4040 is for checking emails.
 
 ## Full LAMP stack
 
